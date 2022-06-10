@@ -1,3 +1,5 @@
+--All credits to 7GrandDad/Xylex, I only fixed it
+
 repeat task.wait() until game:IsLoaded() == true
 local injected = true
 local oldrainbow = false
